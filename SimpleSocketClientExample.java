@@ -1,4 +1,4 @@
-package com.geekcap.javaworld.simplesocketclient;
+package org.prodageo.simplesocketclient;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
